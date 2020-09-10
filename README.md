@@ -1,2 +1,2 @@
 # 15-Puzzle
-Extended use of 8 puzzle by multiple means of BFS, DFS
+Extended the difficulty of 8 puzzle by now programming to solve the 15 puzzle, more efficient means of BFS, DFS, and experimental searches
